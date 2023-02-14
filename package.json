@@ -1,0 +1,25 @@
+{
+  "name": "teste_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deogenesbispo/teste_nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deogenesbispo/teste_nodejs/issues"
+  },
+  "homepage": "https://github.com/deogenesbispo/teste_nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
